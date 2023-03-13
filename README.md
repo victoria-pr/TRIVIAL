@@ -14,10 +14,8 @@
 
 ### Juego
 
-    1. Score
+    1. Nombre + Score
     2. Ventana preguntas/respuestas
-    3. Pista
-    4. Saltar preguntas
 
 ### Fin de juego
     1.Win
